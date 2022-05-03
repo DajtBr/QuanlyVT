@@ -31,6 +31,7 @@ void updatefileVT()
 {
      int j ;
      int outer;
+     cout<<"test 3";
 }
 
 #endif
