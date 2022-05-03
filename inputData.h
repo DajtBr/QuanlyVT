@@ -29,7 +29,8 @@ BSTNode* inputfileVT()
 }
 void updatefileVT()
 {
-
+     int j ;
+     int outer;
 }
 
 #endif
