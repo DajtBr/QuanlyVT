@@ -6,7 +6,7 @@ using namespace std ;
 int main () {
     int n = MenuThongke();
     cout<<n;
-    cout<<"test file 123";
+    cout<<"Test case";
     getch();
     return 0;
 }
